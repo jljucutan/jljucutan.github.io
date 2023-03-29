@@ -83,7 +83,7 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-.container { max-width: 960px; }
+.container { max-width: 960px; font-family: "Open Sans", Helvetica, sans-serif; }
 .mx-auto { margin-left: auto; margin-right: auto;}
 
 /* ==========================================================================
